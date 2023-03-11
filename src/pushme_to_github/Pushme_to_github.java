@@ -16,6 +16,7 @@ public class Pushme_to_github {
     public static void main(String[] args) {
         System.out.println("\t Hey there I am using GitHub for the firts time");
         System.out.println("\t I created this change on 2023-03-11 at 11.05 am");
+        System.out.println("I created this on GitHub on 2023-03-11 at 18.15 pm")
         // TODO code application logic here
     }
     
